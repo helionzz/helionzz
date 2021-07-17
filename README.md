@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @helionzz
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me helionvrs@hotmail.com/ twitter > @helionzz
 - Be Happy :D
 <!---
