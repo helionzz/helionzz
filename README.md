@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @helionzz
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning python
-- 📫 How to reach me helionvrs@hotmail.com/ twitter > @helionzz
+- 📫 helionvrs@hotmail.com/ twitter > @helionzz
 - Be Happy :D
 <!---
 helionzz/helionzz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
